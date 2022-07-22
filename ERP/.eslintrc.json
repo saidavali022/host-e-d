@@ -1,0 +1,15 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": ["prettier"]
+  // "rules": {
+  //   "prettier/prettier": [
+  //     2,
+  //     {
+  //       "printWidth": 100,
+  //       "singleQuote": true,
+  //       "trailingComma": "none",
+  //       "tabWidth": 2
+  //     }
+  //   ]
+  // }
+}

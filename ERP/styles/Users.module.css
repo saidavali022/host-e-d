@@ -1,0 +1,48 @@
+.userCreateForm {
+  width: 330px;
+  margin: 1 auto;
+}
+.circleImgUpload,
+.fileImgUpload {
+  width: 150px;
+  height: 150px;
+  background-image: url(/static/asserts/user-profile.webp);
+  margin: 0 auto;
+  z-index: 1000;
+  position: relative;
+}
+.fileImgUpload {
+}
+.CardImgupload {
+  display: grid;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.imguploadpera {
+  color: black;
+  font-size: 14px;
+}
+
+.taskInputField {
+  width: 95%;
+  margin: 15px 0px;
+}
+
+.date::-webkit-datetime-edit-text {
+  -webkit-appearance: none;
+  display: none;
+}
+.date::-webkit-datetime-edit-month-field {
+  -webkit-appearance: none;
+  display: none;
+}
+.date::-webkit-datetime-edit-day-field {
+  -webkit-appearance: none;
+  display: none;
+}
+.date::-webkit-datetime-edit-year-field {
+  -webkit-appearance: none;
+  display: none;
+}
